@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header{
+    padding: 20px;
+}
+
+section div{
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 54px;
+    margin: 0 auto;
+    padding: 50px;
+    width: 30%;
+}
